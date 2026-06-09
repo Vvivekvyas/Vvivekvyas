@@ -44,10 +44,10 @@ HTML, CSS, Bootstrap, Flask
 NumPy, Pandas, Matplotlib, Scikit-learn  
 
 ### 🗄 Databases
-MongoDB, MySQL  
+MongoDB, MySQL, PostgreSQL
 
 ### 🛠 Tools & Platforms
-GitHub, VS Code  
+GitHub, VS Code, Docker 
 
 ### 📌 Core Skills
 Data Structures & Algorithms, OOP, DBMS, OS, Problem Solving  
@@ -56,8 +56,21 @@ Data Structures & Algorithms, OOP, DBMS, OS, Problem Solving
 
 ## 🚀 Projects
 
+### 🥤 Pyoras Dashboard — Vending Machine Management System
+
+Full-stack admin dashboard to manage vending machines, products, inventory, and advertisements across multiple machine types.
+
+- Built backend using FastAPI with PostgreSQL and async SQLAlchemy ORM
+- Managed database migrations using Alembic and deployed services using Docker multi-stage builds
+- Implemented machine-specific product catalogs and advertisement management (juice, coffee, sugarcane)
+- Developed media handling pipeline supporting image/video uploads with type-based validation rules
+- Built image processing pipeline converting uploads to BMP (800×480) for ESP32-based coffee
+   machine displays
+- Implemented role-based access control, real-time stock monitoring, and sales analytics
+- Developed responsive admin panel using Next.js 14 and Tailwind CSS
+
 ### 🩸 Life Connect — Blood Donor Finder
-🔗 GitHub: (add link here)
+🔗 GitHub: (https://github.com/Vvivekvyas/Lifeline_Connect)
 
 Full-stack web application designed to connect blood donors with recipients using location and blood group-based search.
 
@@ -69,17 +82,19 @@ Full-stack web application designed to connect blood donors with recipients usin
 
 ---
 
-### 🍱 Khaana Khaya — Tiffin Service Platform
-Web platform to connect students with nearby tiffin service providers.
+## 💼 Internship Experience
 
-- Built using HTML, CSS, JavaScript, PHP  
-- Added shop registration and category filtering  
-- Designed database-driven workflow for provider management  
-- Improved UX for students in PGs and hostels  
+### 💻 Software Developer Intern — Pyoras, Jaipur  
+📅 May 2026 – Present  
+
+- Developed backend modules using FastAPI for managing vending machines, products, and inventory
+- Worked with PostgreSQL database for structured data storage and management
+- Implemented advertisement upload flows with media validation for different machine types
+- Built and maintained admin dashboard using Next.js 14
+- Handled containerized deployment using Docker for scalable backend services
+- Followed Git-based collaboration workflow during development process 
 
 ---
-
-## 💼 Internship Experience
 
 ### 🐍 Python Full Stack Intern — Cynbit Technologies, Jaipur  
 📅 Jun 2025 – Jul 2025  
@@ -89,16 +104,6 @@ Web platform to connect students with nearby tiffin service providers.
 - Implemented CRUD operations and authentication  
 - Followed Git-based collaboration workflow  
 - Participated in structured software development process  
-
----
-
-### 🌐 Web Development Intern — KistechnoSoftware, Jaipur  
-📅 Jul 2024 – Aug 2024  
-
-- Built responsive web pages using HTML, CSS, Bootstrap, JavaScript  
-- Improved UI responsiveness across devices  
-- Worked on frontend optimization and structure  
-- Gained real-world project development experience  
 
 ---
 
