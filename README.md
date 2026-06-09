@@ -94,7 +94,6 @@ Full-stack web application designed to connect blood donors with recipients usin
 - Handled containerized deployment using Docker for scalable backend services
 - Followed Git-based collaboration workflow during development process 
 
----
 
 ### 🐍 Python Full Stack Intern — Cynbit Technologies, Jaipur  
 📅 Jun 2025 – Jul 2025  
