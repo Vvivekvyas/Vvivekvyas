@@ -40,9 +40,6 @@ C, C++, Python, JavaScript, SQL
 ### 🌐 Web Development
 HTML, CSS, Bootstrap, Flask  
 
-### 🤖 Machine Learning
-NumPy, Pandas, Matplotlib, Scikit-learn  
-
 ### 🗄 Databases
 MongoDB, MySQL, PostgreSQL
 
